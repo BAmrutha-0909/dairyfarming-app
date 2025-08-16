@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "271343012945",
+    "project_id": "dairyfarming-eb07b",
+    "storage_bucket": "dairyfarming-eb07b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271343012945:android:c62437e147ed78853cbc70",
+        "android_client_info": {
+          "package_name": "com.dairyfarming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271343012945-5kqe9onfbj7c8she3k3mm9k89mk9rubo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp9pIUjT_qA6RzkZ5M1q8KkMhiU7FafTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271343012945-5kqe9onfbj7c8she3k3mm9k89mk9rubo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271343012945:android:c82a5c5b6312a9603cbc70",
+        "android_client_info": {
+          "package_name": "com.example.dairyfarming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271343012945-5kqe9onfbj7c8she3k3mm9k89mk9rubo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp9pIUjT_qA6RzkZ5M1q8KkMhiU7FafTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271343012945-5kqe9onfbj7c8she3k3mm9k89mk9rubo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

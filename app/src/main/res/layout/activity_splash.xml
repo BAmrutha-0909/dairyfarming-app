@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFDEB"
+    android:gravity="center"
+    android:padding="24dp">
+
+    <!-- Logo -->
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@mipmap/app_logo"
+        android:contentDescription="App Logo"
+        android:layout_marginBottom="16dp" />
+
+    <!-- App Name -->
+
+
+    <!-- Subtitle with emoji -->
+    <TextView
+        android:id="@+id/subtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🐄 Smart Dairy Manager"
+        android:textColor="#0B3D0B"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Tagline -->
+    <TextView
+        android:id="@+id/tagline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Track Milk · Manage Cattle · Boost Profits"
+        android:textColor="#4E7D4E"
+        android:textSize="16sp" />
+
+</LinearLayout>
